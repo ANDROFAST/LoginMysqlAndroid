@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Login Android y Mysql</string>
+    <string name="hint_email">Correo</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTRAR</string>
+    <string name="btn_link_to_register">No eres miembro? Registrate Ahora.</string>
+    <string name="btn_link_to_login">Ya estoy registrado! Iniciar Sesion.</string>
+    <string name="welcome">BIENVENIDO</string>
+    <string name="btn_logout">SALIR</string>
+    <string name="name">Nombre</string>
+
+</resources>
